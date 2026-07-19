@@ -1,0 +1,3 @@
+{"event_id":"evt-001","source_ip":"203.0.113.55","domain":"example.org"}
+{"event_id":"evt-002","source_ip":"198.51.100.12","domain":"malicious.example"}
+{"event_id":"evt-003","sha256":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"}

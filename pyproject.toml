@@ -1,0 +1,12 @@
+[project]
+name = "threat-intel-ioc-correlator"
+version = "0.1.0"
+description = "Defensive IOC correlation tool"
+requires-python = ">=3.11"
+
+[project.scripts]
+ioc-correlator = "threat_intel_ioc_correlator.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"

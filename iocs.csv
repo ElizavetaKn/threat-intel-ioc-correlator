@@ -1,0 +1,4 @@
+type,value,source
+ip,203.0.113.55,training-feed
+domain,malicious.example,training-feed
+sha256,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,training-feed
